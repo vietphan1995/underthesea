@@ -17,4 +17,4 @@ Underthesea integration used in translate, collect, store your vocabulary list f
 [back to projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://six-zinc-ad4.notion.site/Underthesea-1b85e832d6ee80ea9becf9c3c51d9ea4
+https://phantrungviet.notion.site/Underthesea-1b85e832d6ee80ea9becf9c3c51d9ea4
