@@ -1,6 +1,10 @@
-# Underthesea
+# underthesea
 
-# Introduction
+## Underthesea
+
+### Introduction
+
+[https://github.com/vietphan1995/underthesea.git](https://github.com/vietphan1995/underthesea.git)
 
 Underthesea is an application software that act as super digital dictionary.
 
@@ -14,7 +18,7 @@ Beside that, underthesea improves your experience like reminder, images, backgro
 
 Underthesea integration used in translate, collect, store your vocabulary list for many purposes.
 
-[back to projects …](https://github.com/vietphan1995/projects)
+### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://phantrungviet.notion.site/Underthesea-1b85e832d6ee80ea9becf9c3c51d9ea4
+https://phantrungviet.notion.site/underthesea-1b85e832d6ee80ea9becf9c3c51d9ea4
